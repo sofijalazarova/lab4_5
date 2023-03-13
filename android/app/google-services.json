@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624785141755",
+    "project_id": "lab-mobile-sofija",
+    "storage_bucket": "lab-mobile-sofija.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624785141755:android:a82932f8c7a361953ea55e",
+        "android_client_info": {
+          "package_name": "com.example.lab4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624785141755-pl01ibpgeb73r24fpj1pihhupjv9daae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt1aX7tq-rU7QQkdAP30-sbaQxYMhALrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624785141755-pl01ibpgeb73r24fpj1pihhupjv9daae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
